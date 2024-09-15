@@ -3,7 +3,7 @@
 % Welcome to Overleaf --- just edit your LaTeX on the left,
 % and we'll compile it for you on the right. If you open the
 % 'Share' menu, you can invite other users to edit at the same
-% time. See www.overleaf.com/learn for more info. Enjoy!
+% time. www.overleaf.com/project/66e6310ab7741ee0843a5314 for more info. Enjoy!
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass[12pt, letterpaper]{article}
